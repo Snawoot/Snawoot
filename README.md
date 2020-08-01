@@ -10,3 +10,4 @@
   - Twitter: [@snawoot](https://twitter.com/snawoot)
   - Habr: [Yourchief](https://habr.com/ru/users/yourchief/)
 - 🔑 My PGP key: [8EE97E32515D051898B1864AF6C5633BE5DE7127](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x8ee97e32515d051898b1864af6c5633be5de7127)
+- 💲 My PayPal.me page: https://paypal.me/VladislavYarmak
