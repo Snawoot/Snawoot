@@ -5,7 +5,6 @@
   - Telegram: [@Snawoot](https://t.me/Snawoot)
   - Email: [vladislav-ex-gh@vm-0.com](mailto:vladislav-ex-gh@vm-0.com)
   - LinkedIn: https://www.linkedin.com/in/vladislav-yarmak/
-  - Jabber: [yarmak@openjabber.org](xmpp:yarmak@openjabber.org)
   - Skype: solaris.snaut
   - Twitter: [@snawoot](https://twitter.com/snawoot)
   - Habr: [Yourchief](https://habr.com/ru/users/yourchief/)
