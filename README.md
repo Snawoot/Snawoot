@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 💬 Ask me about systems architecture and security
+- 💬 Ask me about systems architecture, security and maybe networking
 - 🌐 My site: https://snawoot.github.io/
 - 📫 How to reach me:
   - Telegram: [@Snawoot](https://t.me/Snawoot)
